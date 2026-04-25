@@ -1,4 +1,4 @@
-## 💫 About Me
+<img width="555" height="130" alt="codeforces-sponsored-by-ton" src="https://github.com/user-attachments/assets/3c648340-94ae-446f-9f58-c7e52efbb107" />## 💫 About Me
 Hi, I’m **Ravi Singh** 👋  
 A passionate **B.Tech student** and **aspiring Full Stack Developer** who enjoys building real-world applications and solving complex problems.
 
@@ -15,6 +15,7 @@ A passionate **B.Tech student** and **aspiring Full Stack Developer** who enjoys
 - 🔗 LinkedIn: [https://www.linkedin.com/in/ravi-singh-294b37327/]
 - 🐦 X (Twitter): [https://x.com/RaviSin64398992]
 - 📧 Email: [ravisingh98199@gmail.com]
+- codeforces-https://codeforces.com/profile/ravi_code?csrf_token=3c2b7e364820f0fe52b723566b07289b
 
 ---
 
