@@ -1,4 +1,4 @@
-<img width="555" height="130" alt="codeforces-sponsored-by-ton" src="https://github.com/user-attachments/assets/3c648340-94ae-446f-9f58-c7e52efbb107" />## 💫 About Me
+ src="https://github.com/user-attachments/assets/3c648340-94ae-446f-9f58-c7e52efbb107" />## 💫 About Me
 Hi, I’m **Ravi Singh** 👋  
 A passionate **B.Tech student** and **aspiring Full Stack Developer** who enjoys building real-world applications and solving complex problems.
 
